@@ -14,5 +14,7 @@ namespace git_test
         public string cidadeNascimento { get; set; }
         public string outroCampo { get; set; }
         public string terceiroCampo { get; set; }
+
+        // comentário
     }
 }
