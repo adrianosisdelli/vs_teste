@@ -13,5 +13,6 @@ namespace git_test
         public string cidade { get; set; }
         public string cidadeNascimento { get; set; }
         public string outroCampo { get; set; }
+        public string terceiroCampo { get; set; }
     }
 }
