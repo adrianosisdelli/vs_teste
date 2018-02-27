@@ -12,5 +12,6 @@ namespace git_test
         public string endereco { get; set; }
         public string cidade { get; set; }
         public string cidadeNascimento { get; set; }
+        public string outroCampo { get; set; }
     }
 }
